@@ -1,4 +1,8 @@
 # eCommerce_Dataset_DataCats
+
+The eCommerce dataset can be found at https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+Both the 2019-Oct.csv and 2019-Nov.csv were used.
+
 CS5530 Principles of Data Science Project
 Notebooks
 
